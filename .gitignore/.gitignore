@@ -1,0 +1,34 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/*
+ 
+
+#yhouse项目中不需要的资源
+loading_pics/
+proguard/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+#gradle files
+.gradle/
+.svn/
+
+*.iml
+#android studio files
+.idea/
