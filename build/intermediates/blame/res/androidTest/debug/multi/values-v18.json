@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\35dbe77c3e04577f131f4dd59fedc2e60a68dcb7\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 48,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    }
+]

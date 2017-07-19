@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\3e342c12eaf479fb4fb25286c2a7449c4bf9d204\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\35dbe77c3e04577f131f4dd59fedc2e60a68dcb7\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\35dbe77c3e04577f131f4dd59fedc2e60a68dcb7\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

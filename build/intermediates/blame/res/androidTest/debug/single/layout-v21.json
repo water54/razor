@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\openSourceProject\\MyApplication\\razor\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hawk.zheng.CORP\\.android\\build-cache\\748de9e888098a2aa7316e3703001c84eff6c61d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
