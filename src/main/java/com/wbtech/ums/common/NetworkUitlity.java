@@ -13,6 +13,8 @@
  */
 package com.wbtech.ums.common;
 
+import com.wbtech.ums.net.OkHttpProxy;
+import com.wbtech.ums.net.OkHttpRequestBuilder;
 import com.wbtech.ums.objects.AbstractReturnObject;
 import com.wbtech.ums.objects.MyMessage;
 

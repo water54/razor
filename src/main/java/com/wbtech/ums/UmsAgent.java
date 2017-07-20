@@ -21,6 +21,7 @@ import com.wbtech.ums.bean.ActivityInfo;
 import com.wbtech.ums.bean.EventInfo;
 import com.wbtech.ums.common.CommonUtil;
 import com.wbtech.ums.common.MD5Utility;
+import com.wbtech.ums.net.OkHttpProxy;
 import com.wbtech.ums.common.UmsAgentStorage;
 import com.wbtech.ums.common.UmsConstants;
 import com.wbtech.ums.message.MessageCenter;
@@ -54,7 +55,7 @@ public class UmsAgent {
     public static void setBaseURL(Context context, String url) {
         UmsConstants.preUrl = url;
         // StorageUtil.init(context);
-
+        OkHttpProxy.getInstance().init(context);
         postClientData(context, null, null);
     }
 

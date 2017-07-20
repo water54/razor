@@ -6,7 +6,7 @@ import com.wbtech.ums.bean.ActivityInfo;
 import com.wbtech.ums.common.CommonUtil;
 import com.wbtech.ums.common.NetworkUitlity;
 import com.wbtech.ums.common.UmsConstants;
-import com.wbtech.ums.objects.BaseGsonAgent;
+import com.wbtech.ums.net.BaseGsonAgent;
 import com.wbtech.ums.objects.MyMessage;
 import com.wbtech.ums.storage.RazorDbOperation;
 

@@ -1,4 +1,4 @@
-package com.wbtech.ums.common;
+package com.wbtech.ums.net;
 
 import android.text.TextUtils;
 

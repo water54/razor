@@ -1,4 +1,4 @@
-package com.wbtech.ums.objects;
+package com.wbtech.ums.net;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

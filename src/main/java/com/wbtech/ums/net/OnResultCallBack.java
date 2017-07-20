@@ -1,4 +1,4 @@
-package com.wbtech.ums.common;
+package com.wbtech.ums.net;
 
 /**
  * Created by hawk.zheng on 2017/3/18.
